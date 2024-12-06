@@ -80,7 +80,7 @@ const Hero = () => {
     });
   });
 
-  const getVideoSrc = (index) => `videos/hero-${index}.mp4`;
+  const getVideoSrc = (index) => `shared/Videos/DSC_${index}.MOV`;
 
   return (
     <div className="bg-black relative h-dvh w-screen overflow-x-hidden">
