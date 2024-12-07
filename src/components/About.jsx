@@ -27,7 +27,7 @@ const About = () => {
   });
 
   return (
-    <div id="about" className="min-h-screen w-screen">
+    <div id="about" className="bg-black text-white min-h-screen w-screen">
       <div className="relative mb-8 mt-36 flex flex-col items-center gap-5">
         <p className="font-general text-sm uppercase md:text-[10px]">
           Welcome to ExZ
@@ -35,7 +35,7 @@ const About = () => {
 
         <AnimatedTitle
           title="Disc<b>o</b>ver the most <br /> Awaiting Cultural fest <b>EUPHONIOUS</b>x ZYZZVA"
-          containerClass="mt-5 !text-black text-center"
+          containerClass="mt-5 text-center"
         />
 
         <div className="about-subtext">

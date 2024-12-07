@@ -25,7 +25,7 @@ function App() {
       {loading ? (
         <Preloader /> // Show Preloader while loading
       ) : (
-        <main className="relative min-h-screen w-screen overflow-x-hidden">
+        <main className="bg-black relative min-h-screen w-screen overflow-x-hidden">
           <NavBar />
           <Hero />
           <About />
