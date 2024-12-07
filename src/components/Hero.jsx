@@ -80,12 +80,12 @@ const Hero = () => {
     });
   });
 
-  const getVideoSrc = (index) => `videos/hero-${index}.mp4`;
+  const getVideoSrc = (index) => `shared/Videos/DSC_${index}.MOV`;
 
   return (
-    <div className="relative h-dvh w-screen overflow-x-hidden">
+    <div className="bg-black relative h-dvh w-screen overflow-x-hidden">
       {loading && (
-        <div className="flex-center absolute z-[100] h-dvh w-screen overflow-hidden bg-violet-50">
+        <div className="flex-center absolute z-[100] h-dvh w-screen overflow-hidden bg-black">
           {/* https://uiverse.io/G4b413l/tidy-walrus-92 */}
           <div className="three-body">
             <div className="three-body__dot"></div>
@@ -97,7 +97,7 @@ const Hero = () => {
 
       <div
         id="video-frame"
-        className="relative z-10 h-dvh w-screen overflow-hidden rounded-lg bg-blue-75"
+        className="relative z-10 h-dvh w-screen overflow-hidden rounded-lg bg-black"
       >
         <div>
           <div className="mask-clip-path absolute-center absolute z-50 size-64 cursor-pointer overflow-hidden rounded-lg">
@@ -164,7 +164,7 @@ const Hero = () => {
         </div>
       </div>
 
-      <h1 className="special-font hero-heading absolute bottom-5 right-5 text-black">
+      <h1 className="special-font hero-heading absolute bottom-5 right-5 text-violet-200">
         <b>PRESENT</b>ING
       </h1>
     </div>
