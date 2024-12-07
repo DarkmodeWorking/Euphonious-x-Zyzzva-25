@@ -67,7 +67,7 @@ const FloatingImage = () => {
                   onMouseLeave={handleMouseLeave}
                   onMouseUp={handleMouseLeave}
                   onMouseEnter={handleMouseLeave}
-                  src="/img/entrance.webp"
+                  src="shared/DSC_2089.jpg"
                   alt="entrance.webp"
                   className="object-contain"
                 />
@@ -106,9 +106,9 @@ const FloatingImage = () => {
         <div className="-mt-80 flex w-full justify-center md:-mt-64 md:me-44 md:justify-end">
           <div className="flex h-full w-fit flex-col items-center md:items-start">
             <p className="mt-3 max-w-sm text-center font-circular-web text-violet-50 md:text-start">
-              Where realms converge, lies Zentry and the boundless pillar.
-              Discover its secrets and shape your fate amidst infinite
-              opportunities.
+            Reach the peak of excitement and creativity at this year&apos;s cultural fest. It&apos;is not just an event; it&apos;s the pinnacle of celebration and unity.
+
+
             </p>
 
             <Button

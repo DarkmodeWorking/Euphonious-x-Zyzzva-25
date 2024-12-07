@@ -129,7 +129,7 @@ const Features = () => (
           }
           mediaType="video"
           description="Light up your spirit with electrifying performances and unparalleled energy. The fest that ignites passion and leaves a glowing impression."
-          isComingSoon
+          // isComingSoon
         />
       </BentoTilt>
 
