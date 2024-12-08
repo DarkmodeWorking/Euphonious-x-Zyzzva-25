@@ -110,11 +110,11 @@ export const BentoCard = ({ src, title, description, isComingSoon, mediaType }) 
 const Features = () => (
   <section className="bg-black pb-52">
     <div className="container mx-auto px-3 md:px-10">
-      <div className="px-5 py-32 flex flex-col items-center justify-center text-center">
+      <div className="flex flex-col items-center justify-center px-5 py-32 text-center">
         <p className="font-circular-web text-7xl text-blue-50">
           ABOUT EUPHONIOUSxZYZZVA
         </p>
-        <p className="mt-10 max-w-3xl font-circular-web text-2xl text-blue-50 opacity-50 text-justify">
+        <p className="mt-10 max-w-3xl text-justify font-circular-web text-2xl text-blue-50 opacity-50">
           EUPHONIOUSxZYZZVA, the annual cultural fest and inter-institutional competition of Guru Nanak Institute of Technology, Sodepur, under JIS Group, is a vibrant celebration of talent and collaboration. Drawing an enthusiastic crowd of over 3000+ in 2024, the fest featured electrifying performances by renowned artists such as Anupam Roy, Somlata Acharya, Trap Morphine, and Monali Thakur, creating unforgettable memories. With a dynamic lineup of competitions, breathtaking events, and two grand evenings headlined by special guest artists, the fest promises to deliver a spellbinding experience once again in 2025. It's a journey of teamwork, progress, and celebration, ready to craft another beautiful album of memories.
         </p>
       </div>
@@ -186,7 +186,7 @@ const Features = () => (
           </div>
         </BentoTilt>
 
-        <BentoTilt className="bento-tilt_2">
+        {/* <BentoTilt className="bento-tilt_2">
           <video
             src="videos/feature-5.mp4"
             loop
@@ -194,7 +194,7 @@ const Features = () => (
             autoPlay
             className="size-full object-cover object-center"
           />
-        </BentoTilt>
+        </BentoTilt> */}
       </div>
     </div>
   </section>

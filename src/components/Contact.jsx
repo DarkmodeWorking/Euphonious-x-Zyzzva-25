@@ -23,10 +23,10 @@ const Contact = () => {
         </div>
 
         <div className="absolute -top-40 left-20 w-60 sm:top-1/2 md:left-auto md:right-10 lg:top-20 lg:w-80">
-          <ImageClipBox
+          {/* <ImageClipBox
             src="/img/swordman-partial.webp"
             clipClass="absolute md:scale-125"
-          />
+          /> */}
           <ImageClipBox
             src="/shared/IMG_20230331_185856.jpg"
             clipClass="sword-man-clip-path md:scale-125"
