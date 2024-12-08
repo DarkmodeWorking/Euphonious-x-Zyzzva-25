@@ -15,13 +15,13 @@ const people = [
     image: "/coreTeam/Nanda00.jpg",
     href: "https://www.linkedin.com/in/nanda-das-7b2242243/",
   },
-  {
-    id: 3,
-    name: "Ujjal Bhattacharjee",
-    designation: "Shadow Titan",
-    image: "/coreTeam/Mukta.jpeg",
-    href: "https://www.linkedin.com/in/ujjal-bhattacharya/",
-  },
+//   {
+//     id: 3,
+//     name: "Ujjal Bhattacharjee",
+//     designation: "Shadow Titan",
+//     image: "/coreTeam/Mukta.jpeg",
+//     href: "https://www.linkedin.com/in/ujjal-bhattacharya/",
+//   },
 ];
 
 export function WebTeam() {
