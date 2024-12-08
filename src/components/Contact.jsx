@@ -43,7 +43,14 @@ const Contact = () => {
             className="special-font !md:text-[6.2rem] w-full font-zentry !text-5xl !font-black !leading-[.9]"
           />
 
-          <Button title="contact us" containerClass="mt-10 cursor-pointer" />
+          <p className="mt-20 text-4xl font-bold">
+            Contact Us
+          </p>
+          <p className="mt-10 text-lg">
+            SUNIT JANA : +91 98321 19377 <br />
+            SAYAN HALDER : +91 99038 14990 <br />
+            REGISTRAR GNIT : +91 90514 26678 
+          </p>
         </div>
       </div>
     </div>
