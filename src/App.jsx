@@ -8,6 +8,7 @@ import Contact from "./components/Contact";
 import Footer from "./components/Footer";
 import Preloader from "./components/Preloader"; // Import Preloader component
 import { Parallax } from "./components/parallax";
+import { WebTeam } from "./components/WebTeam";
 
 function App() {
   const [loading, setLoading] = useState(true);
@@ -34,6 +35,7 @@ function App() {
           <Parallax/>
           <Story />
           <Contact />
+          <WebTeam/>
           <Footer />
         </main>
       )}
