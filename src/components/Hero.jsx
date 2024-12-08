@@ -154,12 +154,14 @@ const Hero = () => {
               CULTURAL FEST OF <br /> GURU NANAK INSTITUTE OF TECHNOLOGY
             </p>
 
-            <Button
-              id="watch-trailer"
-              title="Watch trailer"
-              leftIcon={<TiLocationArrow />}
-              containerClass="bg-yellow-300 flex-center gap-1"
-            />
+            <a href="https://www.youtube.com/watch?v=8LbuIhftR4c" target="_blank" rel="noopener noreferrer">
+              <Button
+                id="watch-trailer"
+                title="Watch trailer"
+                leftIcon={<TiLocationArrow />}
+                containerClass="bg-yellow-300 flex-center gap-1"
+              />
+            </a>
           </div>
         </div>
       </div>
