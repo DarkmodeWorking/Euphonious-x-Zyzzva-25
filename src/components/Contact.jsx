@@ -13,7 +13,7 @@ const Contact = () => {
       <div className="relative rounded-lg bg-black py-24 text-blue-50 sm:overflow-hidden">
         <div className="absolute -left-20 top-0 hidden h-full w-72 overflow-hidden sm:block lg:left-20 lg:w-96">
           <ImageClipBox
-            src="/img/contact-1.webp"
+            src="/shared/DSC_2540-1.jpg"
             clipClass="contact-clip-path-1"
           />
           <ImageClipBox
