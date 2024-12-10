@@ -74,7 +74,7 @@ export const products = [
     title: "Renderwork Studio",
     link: "https://renderwork.studio",
     thumbnail:
-      "shared/DSC_2454.JPG",
+      "shared/DSC06708.JPG",
   },
 
   {
