@@ -57,7 +57,7 @@ export const BentoCard = ({ src, title, description, isComingSoon, mediaType }) 
   const handleMouseLeave = () => setHoverOpacity(0);
 
   return (
-    <div id="gallery" className="relative size-full">
+    <div className="relative size-full">
       {/* Conditional rendering for video or image */}
       {mediaType === "video" ? (
         <video

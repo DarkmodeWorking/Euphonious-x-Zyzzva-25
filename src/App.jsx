@@ -9,6 +9,7 @@ import Footer from "./components/Footer";
 import Preloader from "./components/Preloader"; // Import Preloader component
 import { Parallax } from "./components/parallax";
 import { WebTeam } from "./components/WebTeam";
+import Events from "./components/Events";
 
 function App() {
   const [loading, setLoading] = useState(true);
@@ -32,6 +33,7 @@ function App() {
           <Hero />
           <About />
           <Features />
+          <Events />
           <Parallax/>
           <Story />
           <Contact />

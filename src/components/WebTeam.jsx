@@ -15,6 +15,13 @@ const people = [
     image: "/coreTeam/Nanda00.jpg",
     href: "https://www.linkedin.com/in/nanda-das-7b2242243/",
   },
+  {
+    id: 3,
+    name: "Ujjal Bhattacharya",
+    designation: "@Henry-N2",
+    image: "/coreTeam/author2.png",
+    href: "https://www.linkedin.com/in/nanda-das-7b2242243/",
+  }
 //   {
 //     id: 3,
 //     name: "Ujjal Bhattacharjee",
