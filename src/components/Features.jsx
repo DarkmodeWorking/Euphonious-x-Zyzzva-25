@@ -121,7 +121,7 @@ const Features = () => (
 
       <BentoTilt className="border-hsla relative mb-7 h-96 w-full overflow-hidden rounded-md md:h-[65vh]">
         <BentoCard
-          src="shared/Videos/DSC_7.MOV"
+          src="shared/Videos/DSC2.mp4"
           title={
             <>
               radia<b>n</b>t
@@ -150,7 +150,7 @@ const Features = () => (
 
         <BentoTilt className="bento-tilt_1 row-span-1  md:col-span-1 md:ms-0">
           <BentoCard
-            src="shared/Videos/DSC_2128.MOV"
+            src="shared/Videos/DSC3.mp4"
             title={
               <>
                 G<b>e</b>nesis
@@ -164,7 +164,7 @@ const Features = () => (
 
         <BentoTilt className="bento-tilt_1  md:col-span-1 md:me-0">
           <BentoCard
-            src="shared/Videos/DSC_2150.MOV"
+            src="shared/Videos/DSC4.mp4"
             title={
               <>
                 Eu<b>pho</b>ria
