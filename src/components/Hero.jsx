@@ -80,7 +80,7 @@ const Hero = () => {
     });
   });
 
-  const getVideoSrc = (index) => `shared/Videos/DSC_${index}.MOV`;
+  const getVideoSrc = (index) => `shared/Videos/DSC${index}.mp4`;
 
   return (
     <div className="bg-black relative h-dvh w-screen overflow-x-hidden">
@@ -154,10 +154,10 @@ const Hero = () => {
               CULTURAL FEST OF <br /> GURU NANAK INSTITUTE OF TECHNOLOGY
             </p>
 
-            <a href="https://www.youtube.com/watch?v=8LbuIhftR4c" target="_blank" rel="noopener noreferrer">
+            <a href="https://www.facebook.com/share/v/15bH2DeCkh/?mibextid=ZbWKwL" target="_blank" rel="noopener noreferrer">
               <Button
                 id="watch-trailer"
-                title="Watch trailer"
+                title="Watch Trailer"
                 leftIcon={<TiLocationArrow />}
                 containerClass="bg-yellow-300 flex-center gap-1"
               />
