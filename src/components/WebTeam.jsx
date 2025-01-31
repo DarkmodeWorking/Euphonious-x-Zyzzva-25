@@ -4,21 +4,21 @@ const people = [
   {
     id: 1,
     name: "Anurag Bhattacharjee",
-    designation: "Darkmode Astaroth",
+    designation: "Dept. of CSE",
     image: "/coreTeam/github.png",
     href:"https://www.linkedin.com/in/anurag-bhattacharjee-65a487275/"
   },
   {
     id: 2,
     name: "Nanda Lal Das",
-    designation: "Heavenly Demon",
+    designation: "Dept. of CSE",
     image: "/coreTeam/Nanda00.jpg",
     href: "https://www.linkedin.com/in/nanda-das-7b2242243/",
   },
   {
     id: 3,
     name: "Ujjal Bhattacharya",
-    designation: "@Henry-N2",
+    designation: "Dept. of IT",
     image: "/coreTeam/author2.png",
     href: "https://www.linkedin.com/in/nanda-das-7b2242243/",
   }

@@ -12,63 +12,63 @@ export const products = [
     title: "",
     // link: "https://gomoonbeam.com",
     thumbnail:
-      "shared/DSC_0080.webp",
+      "https://res.cloudinary.com/dwt633pc6/image/upload/v1738334417/zyzzva/fte8caeyijc3ji4aoy69.jpg",
   },
   {
     title: "",
     // link: "https://cursor.so",
     thumbnail:
-      "shared/DSC06699.webp",
+      "https://res.cloudinary.com/dwt633pc6/image/upload/v1738334412/zyzzva/mhkrfpppqg68zxilwynz.webp",
   },
   {
     title: "",
     // link: "https://userogue.com",
     thumbnail:
-      "shared/DSC06711.webp",
+      "https://res.cloudinary.com/dwt633pc6/image/upload/v1738334415/zyzzva/thkfqchmg1hzixil8hp3.jpg",
   },
 
   {
     title: "",
     // link: "https://editorially.org",
     thumbnail:
-      "shared/DSC06734.webp",
+      "https://res.cloudinary.com/dwt633pc6/image/upload/v1738334414/zyzzva/bulj3ghqkdn4yn6lzpem.webp",
   },
   {
     title: "",
     // link: "https://editrix.ai",
     thumbnail:
-      "shared/DSC06844.webp",
+      "https://res.cloudinary.com/dwt633pc6/image/upload/v1738334412/zyzzva/gxogbz2p7ainpl5ptbug.webp",
   },
   {
     title: "",
     // link: "https://app.pixelperfect.quest",
     thumbnail:
-      "shared/DSC_0115.webp",
+      "https://res.cloudinary.com/dwt633pc6/image/upload/v1738334413/zyzzva/obas3d1mp1vsspyrzij7.webp",
   },
 
   {
     title: "",
     // link: "https://algochurn.com",
     thumbnail:
-      "shared/DSC_0140.webp",
+      "https://res.cloudinary.com/dwt633pc6/image/upload/v1738334412/zyzzva/cgx09kvo7glazbzbueqy.webp",
   },
   {
     title: "",
     // link: "https://ui.aceternity.com",
     thumbnail:
-      "shared/_MG_0130.webp",
+      "https://res.cloudinary.com/dwt633pc6/image/upload/v1738334412/zyzzva/gxogbz2p7ainpl5ptbug.webp",
   },
   {
     title: "",
     // link: "https://tailwindmasterkit.com",
-    thumbnail:
-      "shared/DSC_9364.webp",
+    thumbnail:"https://res.cloudinary.com/dwt633pc6/image/upload/v1738334412/zyzzva/y2nksf3jqcvew35rsik4.webp"
+      
   },
   {
     title: "",
     // link: "https://smartbridgetech.com",
     thumbnail:
-      "shared/DSC_2439.webp",
+      "",
   },
   // {
   //   title: "",
